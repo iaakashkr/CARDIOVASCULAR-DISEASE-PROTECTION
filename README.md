@@ -3,6 +3,32 @@
 ## Project Overview
 The **Cardiovascular Disease Prediction** project aims to predict the occurrence of cardiovascular disease in patients based on their medical records and history. By analyzing various factors, the project calculates the probability of cardiovascular disease developing in a patient. This predictive model is a valuable tool in identifying individuals who are at higher risk and enabling early intervention.
 
+## Table Of Content 
+- [Tools Used](#tools-used-while-performing-the-analysis)
+- [Data Cleaning](#data-cleaning-step-used-in-python)
+- [EDA](#performed-the-eda-task-in-python)
+- [Features](#features)
+- [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
+- [Result](#result-and-findings)
+- [Conclusion](#conclusion)
+
+## Tools Used While performing the Analysis
+- Excel - [Download Dataset Here](https://drive.google.com/file/d/1tCgnQWVrW0e4ilhfqvEtdRSqjIsVIcGY/view?usp=drive_link)
+- Python
+  - Jupyter notebook - Cleaning the dataset and showing the graphical visualizations.
+
+- Tableau - Created an interactive dashboard for analysising all the outcome.
+
+
+## Data Cleaning Step Used In Python 
+- imported the necessary libraries.
+- loaded the csv file from the system.
+- performed the cleaning analysis:
+  - Removing duplcates.
+  - Replacing/Droping the Null/NA values.
+  - adjusted the dtypes of date and time columns.
+  - droped the unnecessary columns to remove confuctions
+
 ## Data Dictionary
 The project utilizes a comprehensive dataset with the following features:
 
