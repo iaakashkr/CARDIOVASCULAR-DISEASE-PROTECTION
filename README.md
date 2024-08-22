@@ -7,10 +7,10 @@ The **Cardiovascular Disease Prediction** project aims to predict the occurrence
 - [Tools Used](#tools-used-while-performing-the-analysis)
 - [Data Cleaning](#data-cleaning-step-used-in-python)
 - [EDA](#performed-the-eda-task-in-python)
-- [Data Dictionary](##Data-Dictionary)
+- [Features](#Data-Dictionary)
 - [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
-- [Impact](##Impact)
-- [Inconclusion](In-conclusion)
+- [Impact](#Impact)
+- [Conclusion](#Conclusion)
 
 ## Tools Used While performing the Analysis
 - Excel - [Download Dataset Here](https://drive.google.com/file/d/1tCgnQWVrW0e4ilhfqvEtdRSqjIsVIcGY/view?usp=drive_link)
@@ -94,4 +94,5 @@ Through thorough exploratory data analysis, significant insights were revealed a
 
 This project's predictions and insights empower healthcare professionals to identify high-risk patients and implement preventive measures, ultimately reducing the prevalence of cardiovascular disease.
 
+## Conclusion
 In conclusion, the Cardiovascular Disease Prediction project underscores the importance of data-driven approaches in healthcare, aiding in the proactive management of patients' cardiovascular health.
