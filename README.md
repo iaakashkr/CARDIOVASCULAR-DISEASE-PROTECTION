@@ -7,10 +7,10 @@ The **Cardiovascular Disease Prediction** project aims to predict the occurrence
 - [Tools Used](#tools-used-while-performing-the-analysis)
 - [Data Cleaning](#data-cleaning-step-used-in-python)
 - [EDA](#performed-the-eda-task-in-python)
-- [Data Dictionary](##DataDictionary)
+- [Data Dictionary](##Data-Dictionary)
 - [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
 - [Impact](##Impact)
-- [Inconclusion](Inconclusion)
+- [Inconclusion](In-conclusion)
 
 ## Tools Used While performing the Analysis
 - Excel - [Download Dataset Here](https://drive.google.com/file/d/1tCgnQWVrW0e4ilhfqvEtdRSqjIsVIcGY/view?usp=drive_link)
