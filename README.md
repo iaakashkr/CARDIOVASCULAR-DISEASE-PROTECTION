@@ -53,25 +53,24 @@ The project utilizes a comprehensive dataset with the following features:
 | Fried Potato Consumption | Patient's consumption of fried potatoes.         |
 
 ## Performed the EDA Task In Python:
-###Patient Demographics
-
+1.Patient Demographics :-
 Gender Distribution
 Age Distribution
 BMI Distribution
-###General Health and Last Checkup
 
+2.General Health and Last Checkup :-
 General Health and Last Checkup Correlation
-###Exercise and General Health
 
+3.Exercise and General Health
 Impact of Exercise on General Health
-###Food Consumption Analysis
 
+4.Food Consumption Analysis
 Alcohol Consumption
 Fruit Consumption
 Green Vegetables Consumption
 Fried Potato Consumption
-###Medical History
 
+5.Medical History
 Heart Disease Prevalence
 Skin Cancer Cases
 Other Cancer Incidence
