@@ -9,8 +9,8 @@ The **Cardiovascular Disease Prediction** project aims to predict the occurrence
 - [EDA](#performed-the-eda-task-in-python)
 - [Features](#features)
 - [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
-- [Result](#result-and-findings)
-- [Conclusion](#conclusion)
+- [Result](##Impact)
+- [Conclusion]()
 
 ## Tools Used While performing the Analysis
 - Excel - [Download Dataset Here](https://drive.google.com/file/d/1tCgnQWVrW0e4ilhfqvEtdRSqjIsVIcGY/view?usp=drive_link)
@@ -51,6 +51,38 @@ The project utilizes a comprehensive dataset with the following features:
 | Fruit Consumption         | Patient's consumption of fruits.                 |
 | Green Vegetable Consumption | Patient's consumption of green vegetables.    |
 | Fried Potato Consumption | Patient's consumption of fried potatoes.         |
+
+## Performed the EDA Task In Python:
+###-Patient Demographics
+
+Gender Distribution
+Age Distribution
+BMI Distribution
+###-General Health and Last Checkup
+
+General Health and Last Checkup Correlation
+###-Exercise and General Health
+
+Impact of Exercise on General Health
+###-Food Consumption Analysis
+
+Alcohol Consumption
+Fruit Consumption
+Green Vegetables Consumption
+Fried Potato Consumption
+###-Medical History
+
+Heart Disease Prevalence
+Skin Cancer Cases
+Other Cancer Incidence
+Depression Rate
+Diabetes Cases
+Arthritis Incidence
+Patient's Smoking History
+
+Smoking Habits Analysis
+## Using the cleaned dataset performed Interactive Dashboard in Tableau
+- [Tableau Dashboard](https://public.tableau.com/views/FinalYearProject_17188948702440/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Impact
 Through thorough exploratory data analysis, significant insights were revealed about the factors contributing to cardiovascular disease:
