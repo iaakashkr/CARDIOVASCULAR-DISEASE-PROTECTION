@@ -54,21 +54,21 @@ The project utilizes a comprehensive dataset with the following features:
 
 ## Performed the EDA Task In Python:
 1.Patient Demographics :-
-Gender Distribution
-Age Distribution
-BMI Distribution
+Gender Distribution,
+Age Distribution,
+BMI Distribution.
 
 2.General Health and Last Checkup :-
-General Health and Last Checkup Correlation
+General Health and Last Checkup Correlation.
 
-3.Exercise and General Health
-Impact of Exercise on General Health
+3.Exercise and General Health :-
+Impact of Exercise on General Health.
 
-4.Food Consumption Analysis
-Alcohol Consumption
-Fruit Consumption
-Green Vegetables Consumption
-Fried Potato Consumption
+4.Food Consumption Analysis :-
+Alcohol Consumption,
+Fruit Consumption,
+Green Vegetables Consumption,
+Fried Potato Consumption.
 
 5.Medical History
 Heart Disease Prevalence
