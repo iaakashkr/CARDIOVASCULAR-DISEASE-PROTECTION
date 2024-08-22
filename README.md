@@ -7,10 +7,10 @@ The **Cardiovascular Disease Prediction** project aims to predict the occurrence
 - [Tools Used](#tools-used-while-performing-the-analysis)
 - [Data Cleaning](#data-cleaning-step-used-in-python)
 - [EDA](#performed-the-eda-task-in-python)
-- [Features](##DataDictionary)
+- [Data Dictionary](##DataDictionary)
 - [Dashboard in Tableau](#using-the-cleaned-dataset-performed-interactive-dashboard-in-tableau)
-- [Result](##Impact)
-- [Conclusion](Inconclusion)
+- [Impact](##Impact)
+- [Inconclusion](Inconclusion)
 
 ## Tools Used While performing the Analysis
 - Excel - [Download Dataset Here](https://drive.google.com/file/d/1tCgnQWVrW0e4ilhfqvEtdRSqjIsVIcGY/view?usp=drive_link)
@@ -28,29 +28,6 @@ The **Cardiovascular Disease Prediction** project aims to predict the occurrence
   - Replacing/Droping the Null/NA values.
   - adjusted the dtypes of date and time columns.
   - droped the unnecessary columns to remove confuctions
-
-## Data Dictionary
-The project utilizes a comprehensive dataset with the following features:
-
-| Feature                    | Description                                       |
-|---------------------------|---------------------------------------------------|
-| General Health            | General health condition of the patient.          |
-| Checkup                   | Date of the patient's last medical checkup.       |
-| Exercise                  | Whether the patient engages in regular exercise.  |
-| Heart Disease             | Presence of existing heart disease in the patient.|
-| Skin Cancer               | Presence of skin cancer in the patient.           |
-| Other Cancer              | Presence of other types of cancer in the patient. |
-| Depression               | Presence of depression in the patient.           |
-| Diabetes                  | Presence of diabetes in the patient.              |
-| Arthritis                 | Presence of arthritis in the patient.             |
-| Sex                       | Gender of the patient.                           |
-| Age-Category              | Age category of the patient.                     |
-| BMI                       | Body Mass Index of the patient.                  |
-| Smoking History           | Patient's history of smoking.                    |
-| Alcohol Consumption       | Patient's alcohol consumption habits.            |
-| Fruit Consumption         | Patient's consumption of fruits.                 |
-| Green Vegetable Consumption | Patient's consumption of green vegetables.    |
-| Fried Potato Consumption | Patient's consumption of fried potatoes.         |
 
 ## Performed the EDA Task In Python:
 1.Patient Demographics :-
@@ -77,9 +54,31 @@ Other Cancer Incidence,
 Depression Rate,
 Diabetes Cases,
 Arthritis Incidence,
-Patient's Smoking History.
+Patient's Smoking History,
+Smoking Habits Analysis.
 
-Smoking Habits Analysis
+## Data Dictionary
+The project utilizes a comprehensive dataset with the following features:
+
+| Feature                    | Description                                       |
+|---------------------------|---------------------------------------------------|
+| General Health            | General health condition of the patient.          |
+| Checkup                   | Date of the patient's last medical checkup.       |
+| Exercise                  | Whether the patient engages in regular exercise.  |
+| Heart Disease             | Presence of existing heart disease in the patient.|
+| Skin Cancer               | Presence of skin cancer in the patient.           |
+| Other Cancer              | Presence of other types of cancer in the patient. |
+| Depression               | Presence of depression in the patient.           |
+| Diabetes                  | Presence of diabetes in the patient.              |
+| Arthritis                 | Presence of arthritis in the patient.             |
+| Sex                       | Gender of the patient.                           |
+| Age-Category              | Age category of the patient.                     |
+| BMI                       | Body Mass Index of the patient.                  |
+| Smoking History           | Patient's history of smoking.                    |
+| Alcohol Consumption       | Patient's alcohol consumption habits.            |
+| Fruit Consumption         | Patient's consumption of fruits.                 |
+| Green Vegetable Consumption | Patient's consumption of green vegetables.    |
+| Fried Potato Consumption | Patient's consumption of fried potatoes.         |
 ## Using the cleaned dataset performed Interactive Dashboard in Tableau
 - [Tableau Dashboard](https://public.tableau.com/views/FinalYearProject_17188948702440/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
