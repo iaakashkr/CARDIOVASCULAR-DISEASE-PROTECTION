@@ -70,14 +70,14 @@ Fruit Consumption,
 Green Vegetables Consumption,
 Fried Potato Consumption.
 
-5.Medical History
-Heart Disease Prevalence
-Skin Cancer Cases
-Other Cancer Incidence
-Depression Rate
-Diabetes Cases
-Arthritis Incidence
-Patient's Smoking History
+5.Medical History :-
+Heart Disease Prevalence,
+Skin Cancer Cases,
+Other Cancer Incidence,
+Depression Rate,
+Diabetes Cases,
+Arthritis Incidence,
+Patient's Smoking History.
 
 Smoking Habits Analysis
 ## Using the cleaned dataset performed Interactive Dashboard in Tableau
